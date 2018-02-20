@@ -1,5 +1,8 @@
  // A bunch of lines of code, designed to examine the master/branch/pull capabilities of Github.
 
+// This is code that was added in the Mac local repo, which I will pull into the
+// master on Github
+
 // Some new code added
  
 
